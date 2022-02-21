@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Athos's GitHub stats](https://github-readme-stats.vercel.app/api?username=athos-innocenti&hide_border=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Athos's GitHub stats](https://github-readme-stats.vercel.app/api?username=athos-innocenti&hide=prs&hide_border=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athos-innocenti&theme=dark&layout=compact&hide_border=true&text_color=0CFE18&hide=php,scss,html,css,cmake,Makefile,Jupyter%20Notebook,Shell)](https://github.com/anuraghazra/github-readme-stats)
 
