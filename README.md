@@ -4,11 +4,11 @@ I'm Athos! I've always loved putting pieces together to create new things and wh
 I am fascinated by how math is able to describe our universe in every single aspect and by how every mathematical property is reflected in reality.
 
 My main interests are:
-  ⋅⋅* Computer Science
-  ⋅⋅* Math
-  ⋅⋅* Statistics
-  ⋅⋅* Philosophy
-  ⋅⋅* Interior design
+  * Computer Science
+  * Math
+  * Statistics
+  * Philosophy
+  * Interior design
 
 ## 📊 GitHub Stats
 [![Athos's GitHub stats](https://github-readme-stats.vercel.app/api?username=athos-innocenti&hide=prs&count_private=true&hide_border=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
