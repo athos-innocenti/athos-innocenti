@@ -15,6 +15,7 @@
 ![](https://img.shields.io/static/v1?label=Code&message=PyCharm&color=78FE96&style=flat&logo=pycharm&logoColor=white)
 ![](https://img.shields.io/static/v1?label=Code&message=CLion&color=78FE96&style=flat&logo=clion&logoColor=white)
 ![](https://img.shields.io/static/v1?label=Code&message=Emacs&color=78FE96&style=flat&logo=gnu+emacs&logoColor=white)
+![](https://img.shields.io/static/v1?label=Code&message=Java&color=78FE96&style=flat&logo=java&logoColor=white)
 
 #### Languages
 ![](https://img.shields.io/static/v1?label=Code&message=Python&color=78FE96&style=flat&logo=python&logoColor=white)
