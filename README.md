@@ -14,7 +14,7 @@
 #### Editors
 ![](https://img.shields.io/static/v1?label=Code&message=PyCharm&color=78FE96&style=flat&logo=pycharm&logoColor=white)
 ![](https://img.shields.io/static/v1?label=Code&message=CLion&color=78FE96&style=flat&logo=clion&logoColor=white)
-![](https://img.shields.io/static/v1?label=Code&message=IntelliJ+Idea&color=78FE96&style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/static/v1?label=Code&message=IntelliJ+Idea&color=78FE96&style=flat&logo=intellijidea&logoColor=white)
 
 #### Languages
 ![](https://img.shields.io/static/v1?label=Code&message=Python&color=78FE96&style=flat&logo=python&logoColor=white)
