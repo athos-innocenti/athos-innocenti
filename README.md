@@ -7,6 +7,8 @@ My main interests are:
   * Computer Science
   * Math
   * Statistics
+  * Optimization
+  * Automation
   * Philosophy
   * Interior design
 
