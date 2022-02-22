@@ -10,7 +10,7 @@ My main interests are:
   * Optimization
   * Automation
   * Philosophy
-  * Interior design
+  * Interior Design
 
 ## 📊 GitHub Stats
 [![Athos's GitHub stats](https://github-readme-stats.vercel.app/api?username=athos-innocenti&hide=prs&count_private=true&hide_border=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
