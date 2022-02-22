@@ -1,5 +1,14 @@
 # Hi there 👋
+I'm Athos! I've always loved putting pieces together to create new things and while studying I fell in love with math. I graduated with a grade of 105/110 at the University of Florence in Computer Engineering with a thesis about point cloud registration algorithms and soon I will start my master's degree in Mathematical Engineering at Politecnico di Torino.
 
+I am fascinated by how math is able to describe our universe in every single aspect and by how every mathematical property is reflected in reality.
+
+My main interests are:
+  . Computer Science
+  . Math
+  . Statistics
+  . Philosophy
+  . Interior design
 
 ## 📊 GitHub Stats
 [![Athos's GitHub stats](https://github-readme-stats.vercel.app/api?username=athos-innocenti&hide=prs&count_private=true&hide_border=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
