@@ -7,9 +7,8 @@
 
 ## 🔧 Technologies
 #### OS
-![](https://img.shields.io/badge/macos?style=flat&logo=macos&logoColor=white&color=78FE96)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=macos&logoColor=white&color=78FE96)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=windows&logoColor=white&color=78FE96)
-![](https://img.shields.io/static/v1?label=Linux&message=Manjaro&color=78FE96&style=flat&logo=manjaro&logoColor=white)
   
 #### Editors
 ![](https://img.shields.io/static/v1?label=Code&message=PyCharm&color=78FE96&style=flat&logo=pycharm&logoColor=white)
