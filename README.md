@@ -35,3 +35,4 @@ My main interests are:
 ![](https://img.shields.io/static/v1?label=Code&message=Java&color=78FE96&style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/static/v1?label=Code&message=LaTeX&color=78FE96&style=flat&logo=latex&logoColor=white)
 ![](https://img.shields.io/static/v1?label=Code&message=MATLAB&color=78FE96&style=flat&logo=matlab&logoColor=white)
+![](https://img.shields.io/static/v1?label=Code&message=PostgreSQL&color=78FE96&style=flat&logo=postgresql&logoColor=white)
