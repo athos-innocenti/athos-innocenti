@@ -25,6 +25,7 @@ My main interests are:
 ![](https://img.shields.io/static/v1?label=Code&message=CLion&color=78FE96&style=flat&logo=clion&logoColor=white)
 ![](https://img.shields.io/static/v1?label=Code&message=IntelliJ+Idea&color=78FE96&style=flat&logo=intellijidea&logoColor=white)
 ![](https://img.shields.io/static/v1?label=Code&message=Anaconda&color=78FE96&style=flat&logo=anaconda&logoColor=white)
+![](https://img.shields.io/static/v1?label=Code&message=VS+Code&color=78FE96&style=flat&logo=vscode&logoColor=white)
 
 #### Languages
 ![](https://img.shields.io/static/v1?label=Code&message=C&color=78FE96&style=flat&logo=c&logoColor=white)
