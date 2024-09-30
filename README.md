@@ -12,7 +12,7 @@ My main interests are:
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athos-innocenti&theme=dark&layout=compact&hide_border=true&text_color=0CFE18&hide=php,scss,html,css,cmake,Makefile,Jupyter%20Notebook,Shell&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athos-innocenti&theme=dark&layout=compact&hide_border=true&text_color=0CFE18&hide=php,scss,html,css,cmake,Makefile,M4%20Notebook,Shell&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 [comment]: <[![Athos's GitHub stats](https://github-readme-stats.vercel.app/api?username=athos-innocenti&hide=prs&count_private=true&hide_border=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)>
 
